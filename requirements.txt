@@ -14,7 +14,7 @@ idna==2.6
 Jinja2==2.10
 Kivy-Garden==0.1.4
 MarkupSafe==1.1.1
-maxminddb==1.4.0
+maxminddb==1.4.1
 numpy==1.14.3
 paramiko==2.4.2
 Pillow==5.1.0
